@@ -1,0 +1,20 @@
+# Ignore virtual environments
+venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Mac OS X system files
+.DS_Store
+
+# Ignore build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Ignore test or log files
+*.log
+*.bak
+
